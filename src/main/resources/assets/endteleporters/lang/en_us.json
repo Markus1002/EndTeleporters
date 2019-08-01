@@ -1,0 +1,10 @@
+{
+  "block.endteleporters.ender_frame": "Ender Frame",
+  "block.endteleporters.ender_frame.no_teleporter": "Couldn't find another teleporter within %s blocks",
+  "block.endteleporters.ender_frame.not_active": "The ender frame is not activated",
+  "block.endteleporters.ender_frame.no_eye": "The Ender Frame doesn't have an Eye of Ender",
+  "advancements.end.craft_ender_frame.title": "Space Bender",
+  "advancements.end.craft_ender_frame.description": "Construct an Ender Frame",
+  "subtitles.block.ender_frame.teleport": "Something teleports",
+  "subtitles.block.ender_frame.teleport_fail": "Teleporting fails"
+}

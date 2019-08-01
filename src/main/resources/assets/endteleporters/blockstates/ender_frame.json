@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "eye=none": { "model": "endteleporters:block/ender_frame" },
+        "active=false,eye=up": { "model": "endteleporters:block/ender_frame_eye" },
+        "active=false,eye=down": { "model": "endteleporters:block/ender_frame_eye", "x": 180 },
+        "active=false,eye=east": { "model": "endteleporters:block/ender_frame_eye", "y": 90, "x": 90 },
+        "active=false,eye=south": { "model": "endteleporters:block/ender_frame_eye", "y": 180, "x": 90 },
+        "active=false,eye=west": { "model": "endteleporters:block/ender_frame_eye", "y": 270, "x": 90 },
+        "active=false,eye=north": { "model": "endteleporters:block/ender_frame_eye", "y": 0, "x": 90 },
+		"active=true,eye=up": { "model": "endteleporters:block/ender_frame_eye" },
+        "active=true,eye=down": { "model": "endteleporters:block/ender_frame_active", "x": 180 },
+        "active=true,eye=east": { "model": "endteleporters:block/ender_frame_active", "y": 90, "x": 90 },
+        "active=true,eye=south": { "model": "endteleporters:block/ender_frame_active", "y": 180, "x": 90 },
+        "active=true,eye=west": { "model": "endteleporters:block/ender_frame_active", "y": 270, "x": 90 },
+        "active=true,eye=north": { "model": "endteleporters:block/ender_frame_active", "y": 0, "x": 90 }
+    }
+}

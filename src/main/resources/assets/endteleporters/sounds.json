@@ -1,0 +1,26 @@
+{
+  "block.ender_frame.teleport": {
+    "sounds": [
+	  "mob/endermen/portal",
+      "mob/endermen/portal2"
+	],
+    "subtitle": "subtitles.block.ender_frame.teleport"
+  },
+  "block.ender_frame.teleport_fail": {
+    "sounds": [
+	  "endteleporters:block/ender_frame/teleport_fail1",
+	  "endteleporters:block/ender_frame/teleport_fail2"
+	],
+    "subtitle": "subtitles.block.ender_frame.teleport_fail"
+  },
+  "block.ender_frame.activate": {
+    "sounds": [
+	  "endteleporters:block/ender_frame/activate"
+	]
+  },
+  "block.ender_frame.deactivate": {
+    "sounds": [
+	  "endteleporters:block/ender_frame/deactivate"
+	]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#Y#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:obsidian"
+    },
+    "X": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "Y": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "endteleporters:ender_frame"
+  }
+}

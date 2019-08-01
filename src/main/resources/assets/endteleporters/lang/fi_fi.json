@@ -1,0 +1,10 @@
+{
+  "block.endteleporters.ender_frame": "Ender-kehys",
+  "block.endteleporters.ender_frame.no_teleporter": "Ei voitu löytää toista teleporttia %s kuution sisällä",
+  "block.endteleporters.ender_frame.not_active": "Ender-kehystä ei olla aktivoitu",
+  "block.endteleporters.ender_frame.no_eye": "Ender-kehyksessä ei ole Ender-silmää",
+  "advancements.end.craft_ender_frame.title": "Avaruuden vääristäjä",
+  "advancements.end.craft_ender_frame.description": "Valmista Ender-kehys",
+  "subtitles.block.ender_frame.teleport": "Jokin teleporttaa",
+  "subtitles.block.ender_frame.teleport_fail": "Teleporttaus epäonnistuu"
+}
