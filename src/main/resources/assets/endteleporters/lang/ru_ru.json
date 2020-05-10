@@ -1,0 +1,10 @@
+{
+  "block.endteleporters.ender_frame": "Эндер-рама",
+  "block.endteleporters.ender_frame.no_teleporter": "Не удалось найти другой телепорт в пределах %s блоков.",
+  "block.endteleporters.ender_frame.not_active": "Эндер-рама не активирована",
+  "block.endteleporters.ender_frame.no_eye": "В Эндер-раме нет глаза Эндера",
+  "advancements.end.craft_ender_frame.title": "Искривитель пространства",
+  "advancements.end.craft_ender_frame.description": "Постройка Эндер-рамы",
+  "subtitles.block.ender_frame.teleport": "Что-то телепортируется",
+  "subtitles.block.ender_frame.teleport_fail": "Неудалось телепортироваться"
+}
